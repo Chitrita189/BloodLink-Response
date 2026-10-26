@@ -1,71 +1,50 @@
-# 🩸 BloodLink Response
-### Blood Donation & Emergency Response System
+# BloodLink – Blood Donation & Emergency Response System
 
-**Connecting blood donors with people in need — one step closer to saving lives.**
+A web-based project focused on blood donation awareness, donor search, and emergency response.
 
-BloodLink Response is a web-based prototype designed to organize blood donor records, manage emergency blood requests, maintain hospital information, and identify potential donor matches through a centralized dashboard.
+## About
 
-## 🌟 Key Features
+BloodLink is a project developed to make blood donation information and emergency-related resources easier to access through a simple web interface.
 
-- 📊 **Admin Dashboard** — View summaries of donors, blood requests, and hospitals.
-- 🩸 **Donor Management** — Add, search, filter, and update donor availability.
-- 🚨 **Emergency Requests** — Create blood requests and track their progress.
-- 🔍 **Donor Matching** — Find potential donors based on blood group and area.
-- 🏥 **Hospital Directory** — Maintain hospital information for demonstration purposes.
-- 🔔 **Activity Notifications** — View actions performed during the current session.
-- 🎨 **Responsive Interface** — Clean dashboard with navigation and display settings.
+The website brings together donor-related features and emergency request sections in one place. The aim is to make the process of finding relevant information easier and to explore how technology can support blood donation and emergency coordination.
 
-## 🖥️ Preview
+## Features
 
-Explore the BloodLink Response dashboard and its donor management, blood request, hospital, and donor matching sections.
+- **Blood Donation:** Information related to blood donation.
+- **Donor Search:** An interface for exploring blood donor details.
+- **Emergency Requests:** A section designed for blood-related emergency requests.
+- **Admin Dashboard:** An interface for viewing and managing project information.
+- **Simple Interface:** A user-friendly layout for navigating the website.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| HTML5 | Website structure |
-| CSS3 | Styling and responsive layout |
-| JavaScript | Dashboard interactions and matching logic |
+- HTML
+- CSS
+- JavaScript
 
-## 🚀 Getting Started
+## Getting Started
 
-### Run Locally
+To run the project locally:
 
-1. Download or clone this repository.
-2. Open the project folder.
-3. Open `Blood Donation.html` in a modern web browser.
+1. Clone or download this repository.
+2. Extract the project files if downloaded as a ZIP.
+3. Open the project folder.
+4. Open the main HTML file in a web browser.
 
-No separate server is required for the basic browser demonstration.
+No additional setup is required for the front-end prototype.
 
-## 📂 Project Documentation
+## Project Structure
 
-- **Project Report** — Project overview, design, implementation, testing, and limitations.
-- **Presentation** — Slides for explaining the working model.
-- **Diagrams** — Supporting project diagrams.
+The repository includes the website source code and supporting project documentation, including the report, presentation, and diagrams.
 
-See the corresponding files in this repository.
+## Future Improvements
 
-## 🔮 Future Scope
+- Add database support for storing donor information.
+- Implement secure user authentication.
+- Improve donor search and request management.
+- Add notifications for emergency requests.
+- Introduce verification procedures for donor and hospital information.
 
-- Secure authentication and role-based access.
-- Database integration for persistent records.
-- Verified donor registration and consent.
-- Integration with authorized blood banks and hospitals.
-- Secure, consent-based emergency notifications.
+## Note
 
-## ⚠️ Important Disclaimer
-
-BloodLink Response is an educational prototype, not a live emergency blood donation service. It does not currently provide verified authentication, a shared backend database, or real notifications. Donor matching results are suggestions and must be verified by qualified blood-bank professionals.
-
-Do not enter real patient or donor personal information.
-
-## 👩‍💻 Project Details
-
-- **Project:** BloodLink Response
-- **Category:** Web Development
-- **Domain:** Healthcare and Social Impact
-- **Status:** Front-end prototype
-
----
-
-*Built to support blood donation awareness and emergency response.* ❤️
+This project is developed for educational purposes. The current website is a front-end prototype and should not
