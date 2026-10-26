@@ -45,6 +45,4 @@ The repository includes the website source code and supporting project documenta
 - Add notifications for emergency requests.
 - Introduce verification procedures for donor and hospital information.
 
-## Note
 
-This project is developed for educational purposes. The current website is a front-end prototype and should not be used as a substitute for verified medical services or a real emergency response system.
