@@ -47,4 +47,4 @@ The repository includes the website source code and supporting project documenta
 
 ## Note
 
-This project is developed for educational purposes. The current website is a front-end prototype and should not
+This project is developed for educational purposes. The current website is a front-end prototype and should not be used as a substitute for verified medical services or a real emergency response system.
